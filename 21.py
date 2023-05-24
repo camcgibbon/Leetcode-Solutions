@@ -1,4 +1,4 @@
-# Merge Two Sorted Lists
+# Merge Two Sorted Linked Lists
 
 # Definition for singly-linked list.
 # class ListNode:
